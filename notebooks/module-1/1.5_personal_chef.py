@@ -1,3 +1,10 @@
+# This works in conjuction wit the langgraph.json file in the same directory to use "langgraph dev"
+# It requires the Langgraph client to be installed. pip install langgraph-cli:
+# pip install --user langgraph-cli
+# export PATH="$HOME/.local/bin:$PATH"
+
+# I was still not able to connect back probably from Langgraph Studio because this was running in a codespace
+
 from dotenv import load_dotenv
 
 load_dotenv()
