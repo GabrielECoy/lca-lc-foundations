@@ -1,0 +1,8 @@
+Open Studio
+
+Download langgraph.json (adjust paths)
+Create a vEnv and activate
+Follow instructions on email to setup tools
+Set the environment variables
+Launch studio with using: langgraph dev
+Open https://agentchat.vercel.app that will connect to studio
